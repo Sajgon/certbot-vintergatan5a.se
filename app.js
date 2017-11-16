@@ -8,7 +8,7 @@ const app = express();
 // in /var/www/html/.well-known during 
 // certification renewals
 // MAKE SURE var/www/html exists
-app.use(express.static('var/www/html'));
+app.use(express.static('/var/www/html'));
 
 app.listen(5000, function () {
   console.log('Webserver listening on port 5000');
