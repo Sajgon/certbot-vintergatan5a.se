@@ -1,2 +1,3 @@
 # certbot-vintergatan5a.se
 This bot will make sure to keep up to date with HTTPS certificate automatically.
+Serves the .well-known folder etc...
