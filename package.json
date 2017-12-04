@@ -1,0 +1,22 @@
+{
+  "name": "certbot-vintergatan5a.se",
+  "version": "1.0.0",
+  "description": "This bot will make sure to keep up to date with HTTPS certificate automatically.\r Serves the .well-known folder etc...",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajgon/certbot-vintergatan5a.se.git"
+  },
+  "author": "sajgon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sajgon/certbot-vintergatan5a.se/issues"
+  },
+  "homepage": "https://github.com/Sajgon/certbot-vintergatan5a.se#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
